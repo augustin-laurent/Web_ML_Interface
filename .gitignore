@@ -1,0 +1,8 @@
+node_modules
+datasets/*
+models/*
+.venv
+debugger.ipynb
+frontend/package.json
+backend/debugger.ipynb
+backend/models/test.json
